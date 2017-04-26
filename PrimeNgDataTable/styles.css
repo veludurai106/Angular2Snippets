@@ -1,0 +1,25 @@
+body {
+  padding: 2em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.colordiv {
+    margin: 1% 0 0 1%;
+}
+
+.colorbox {
+    border-radius: 5px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    box-sizing: border-box;
+    float: left;
+    margin: 0 1% 1% 0;
+    border: 1px solid black;
+}
+
+.fixed .ui-datatable-scrollable-view{
+  float: none!important;
+}
